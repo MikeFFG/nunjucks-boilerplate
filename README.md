@@ -9,12 +9,16 @@ A quick boilerplate for building Nunjucks templates with a Stylus.
 ### How do I get set up? ###
 
 global node modules required:
+
 * grunt-cli
+
 * bower
 
 then do
-`npm install`
-`bower install`
+
+* `npm install`
+
+* `bower install`
 
 ### Commands ###
 
