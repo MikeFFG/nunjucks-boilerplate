@@ -1,0 +1,25 @@
+{
+  "name": "nunjucks-boilerplate",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/pixotech/nunjucks-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/pixotech/nunjucks-boilerplate#readme",
+  "devDependencies": {
+    "grunt": "1.0.1",
+    "grunt-contrib-clean": "1.0.0",
+    "grunt-contrib-connect": "1.0.2",
+    "grunt-contrib-stylus": "1.2.0",
+    "grunt-contrib-watch": "1.0.0",
+    "load-grunt-tasks": "3.5.2",
+    "nunjucks": "3.0.0"
+  }
+}
