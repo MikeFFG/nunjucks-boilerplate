@@ -4,26 +4,22 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+A quick boilerplate for building Nunjucks templates with a Stylus.
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+global node modules required:
+* grunt-cli
+* bower
 
-### Contribution guidelines ###
+then do
+`npm install`
+`bower install`
 
-* Writing tests
-* Code review
-* Other guidelines
+### Commands ###
 
-### Who do I talk to? ###
+`grunt build`: Builds the nunjucks template, stylus sheets, and puts them into the `build/` directory.
 
-* Repo owner or admin
-* Other community or team contact
+`grunt serve`: Builds, then creates a local web server with watching and live reloading.
+
+`grunt clean`: Destroys the `build/` directory.
