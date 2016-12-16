@@ -1,3 +1,20 @@
 {
-    "title": "Nunjucks Boilerplate"
+    "title": "Nunjucks Boilerplate",
+    "leadIn": {
+        "title": "Board of Review",
+        "content": "Bacon ipsum dolor amet brisket ground round fatback drumstick landjaeger boudin. Pastrami rump meatloaf beef venison fatback short loin jerky t-bone. Strip steak kielbasa bacon, short loin pork loin tongue spare ribs ham sirloin. Shank bresaola hamburger ham hock flank picanha ham. Cupim ham hock boudin chuck, andouille filet mignon brisket beef ribs bresaola."
+    },
+    "services": [
+        {
+            "name": "Administrative Services",
+            "keyService": "Donec blandit,  nunc quis, massa commodo, dignissim",
+            "departmentHead": "Vestibulum Imperdiet",
+            "address": {
+                "lineOne": "1050 Myrtle Street",
+                "lineTwo": "Champaign, IL 20715"
+            },
+            "email": "fringilla@xxxxxx.gov",
+            "phone": "###-###-####"
+        }
+    ]
 }
