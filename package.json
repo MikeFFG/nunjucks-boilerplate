@@ -20,6 +20,7 @@
     "grunt-contrib-stylus": "1.2.0",
     "grunt-contrib-watch": "1.0.0",
     "load-grunt-tasks": "3.5.2",
-    "nunjucks": "3.0.0"
+    "nunjucks": "3.0.0",
+    "stylus-blackjack": "*"
   }
 }

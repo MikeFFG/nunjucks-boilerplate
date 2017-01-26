@@ -1,3 +1,9 @@
+#vender/package dirs
 node_modules
 bower_components
+
+#project output dirs
 build
+
+#intellij
+.idea
