@@ -12,15 +12,11 @@ global node modules required:
 
 * grunt-cli
 
-* bower
-
 then do
 
 * `npm install`
 
-* `bower install`
-
-### Commands ###
+### What commands are available? ###
 
 `grunt build`: Builds the nunjucks template, stylus sheets, and puts them into the `build/` directory.
 
